@@ -23,10 +23,12 @@ const UniqueOverlay: React.FC = () => {
             <a href='/'>UI Clone</a>
           </li>
           <li>
-            <a href='/'>made with 💜</a>
+            <a href='/'>
+              made by <strong>Caio Mantovani Borba</strong>
+            </a>
           </li>
           <li>
-            <a href='/'>by Caio Mantovani Borba</a>
+            <a href='/'>for studying purposes</a>
           </li>
         </ul>
       </Footer>
